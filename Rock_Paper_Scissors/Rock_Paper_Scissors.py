@@ -1,3 +1,19 @@
+"""
+==============================================================
+Project_Name : Rock Paper Scissors Game
+
+Description:
+A simple command-line Rock, Paper, Scissors game where the user plays against the computer. 
+The computer randomly selects a move, and the program determines the winner based on standard game rules.
+
+Features:
+- Random computer choice
+- User input handling
+- Win/Lose/Tie detection
+- Invalid input validation
+==============================================================
+"""
+
 import random 
 
 print("|------ Welcome to the Game of ROCK, PAPER, SCISSORS ------|\n")
