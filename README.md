@@ -9,6 +9,7 @@
 | Number Guessing Game | Guess a randomly generated number. |
 | Rock Paper Scissors | Play Rock, Paper, Scissors against the computer. |
 | Simple Stopwatch | Measuring Elapsed Time with Start, Stop, and Reset Controls.  |
+| Currency Converter | Real-Time Currency Conversion between supported currencies. |
 
 ## Technologies Used
 - Python
